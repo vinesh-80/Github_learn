@@ -1,2 +1,2 @@
-My first Git file
+My first git file
 
